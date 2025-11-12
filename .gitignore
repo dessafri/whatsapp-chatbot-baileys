@@ -1,0 +1,26 @@
+# Node modules & lock artifacts
+node_modules/
+npm-debug.log*
+yarn-error.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Environment & local config
+.env
+config.local.json
+
+# Build / cache folders
+dist/
+coverage/
+tmp/
+temp/
+
+# WhatsApp auth & derived data
+baileys_auth_info/
+components/last.qr
+data/jid-cache.json
+
+# System junk
+*.log
+Thumbs.db
+Desktop.ini

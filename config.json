@@ -1,0 +1,8 @@
+{
+  "port": 3000,
+  "version_chatbot": 1,
+  "webhook": {
+    "enabled": false,
+    "path": "http://localhost:3001/webhook"
+  }
+}
